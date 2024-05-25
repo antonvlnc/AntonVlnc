@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm a Computer Enginering Student located in Mexico.</h2>
+<h2 align="left">Hi, I'm a Computer Enginering Student from Mexico.</h2>
 
 ###
 
